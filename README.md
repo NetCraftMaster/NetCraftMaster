@@ -30,7 +30,7 @@
 <div align="center">
 
   ### Connect with me
-[![YouTube URL](https://img.shields.io/static/v1?color=red&label=youtube&logo=youtube&logoColor=white&style=for-the-badge&message=Subscribe)]()
+
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)]()
 
