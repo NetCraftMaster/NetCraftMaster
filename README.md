@@ -19,25 +19,22 @@
 
 ------
 ### 🔭 Current Work
-- Working on [building scalable web applications using ASP.NET, SQL, and AWS](https://github.com/maduradevDotNet/Mango_Pos.git).
+- Working on [building scalable web applications using ASP.NET, SQL, and AWS]().
 
 ### 👯 Collaboration
-- Looking to collaborate on [innovative projects using ASP.NET, SQL, and AWS](https://github.com/maduradevDotNet/Mango_Pos.git).
-- Seeking help with [optimizing cloud deployments on AWS](https://github.com/maduradevDotNet/Mango_Pos.git).
-
-### 📫 Contact
-- Reach me at **[www.pasindumadura@yahoo.com](mailto:www.pasindumadura@yahoo.com)**.
+- Looking to collaborate on [innovative projects using ASP.NET, SQL, and AWS]().
+- Seeking help with [optimizing cloud deployments on AWS]().
 
 ---
 
 <div align="center">
 
   ### Connect with me
-[![YouTube URL](https://img.shields.io/static/v1?color=red&label=youtube&logo=youtube&logoColor=white&style=for-the-badge&message=Subscribe)](https://www.youtube.com/@PasinduLifeStories-Vlogs)
+[![YouTube URL](https://img.shields.io/static/v1?color=red&label=youtube&logo=youtube&logoColor=white&style=for-the-badge&message=Subscribe)]()
 
-[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/pasindu-dissanayake-297706178/)
+[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)]()
 
-[![Website URL](https://img.shields.io/static/v1?color=green&label=VivoProNet&logo=website&logoColor=white&style=for-the-badge&message=Browse)](https://vivopronet.blogspot.com/)
+[![Website URL](https://img.shields.io/static/v1?color=green&label=VivoProNet&logo=website&logoColor=white&style=for-the-badge&message=Browse)]()
 
 </div>
 
