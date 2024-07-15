@@ -8,9 +8,7 @@
 <a>
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self NetCraftMaster 😀; I am a Full-Stack%20Web%20Developer 🏻‍💻; Interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000">
 </p>
-<p align="center">
-  <img src="https://github.com/Zaheer-10/Feature-Engineering/blob/main/ml22.gif" alt="Image Description">
-</p>
+
 
 <h3 align="center">Expert in ASP.NET, SQL, and AWS. Building scalable solutions.</h3>
 
