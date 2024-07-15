@@ -12,7 +12,7 @@
 
 <h3 align="center">Expert in ASP.NET, SQL, and AWS. Building scalable solutions.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=D46aQMTStnlCf7s6GPq67PFXzmWSTtPoQRtH60tacuo">
+<img align="right" alt="Coding" width="400" src="https://github.com/NetCraftMaster/NetCraftMaster/blob/main/240820264-31edfb91-6645-4b85-b273-b5280b342e0b.gif?raw=true">
 
 ### Visitor count
 <img src="https://profile-counter.glitch.me/bhrugen/count.svg" />
