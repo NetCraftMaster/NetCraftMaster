@@ -1,6 +1,17 @@
 [![MasterHead](https://raw.githubusercontent.com/NetCraftMaster/NetCraftMaster/main/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Pasindu Dissanayake</h1>
+<h1 align="center">
+        Hi, I'm Net Craft Master
+ <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></a>
+</h1>
+<p align="center">
+<a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&duration=4000&pause=900&color=E036F7&width=435&lines=Expert+In++;Asp.net+Developer;SQl+Developer;AWS+Dev+And More+;Clean+Code" alt="Typing SVG" /></a>
+</p>
+<p align="center">
+  <img src="https://github.com/Zaheer-10/Feature-Engineering/blob/main/ml22.gif" alt="Image Description">
+</p>
+
 <h3 align="center">Expert in ASP.NET, SQL, and AWS. Building scalable solutions.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=D46aQMTStnlCf7s6GPq67PFXzmWSTtPoQRtH60tacuo">
