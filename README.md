@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/NetCraftMaster/NetCraftMaster/main/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://rishavchanda.io)
+[![MasterHead](https://github.com/NetCraftMaster/NetCraftMaster/blob/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?raw=true)](https://rishavchanda.io)
 
 <h1 align="center">
         Hi, I'm Net Craft Master
